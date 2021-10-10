@@ -2,7 +2,7 @@
 	counter:	.word	0,0,0,0,0,0
 	string:		.space	16
 	vowels: 	.asciiz "aeiou"
-	userWord:	.asciiz "Enter a word: "	
+	userWord:	.asciiz "Enter a word(s): "	
 	vowelAmount:.asciiz "Vowel(s): "
 	nl: 		.asciiz "\n"
 	dash:		.asciiz " - "
